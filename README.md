@@ -3,7 +3,8 @@ Never lose track of your flags again!
 
 ## How to get?
 
-Download the zip file from [here](release/CtfFlagTracker.zip), unzip, click on index.html and you are ready to go!
+Download the zip file from [here](
+https://github.com/limcheehean/inf2215-ctf-flag-tracker/raw/master/release/CtfFlagTracker.zip), unzip, click on index.html and you are ready to go!
 
 If you don't trust me, clone the repository and run build it yourself 😒.
 
